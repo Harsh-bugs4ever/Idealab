@@ -1,0 +1,1 @@
+export async function GET(){return Response.json({styleUrl:process.env.MAP_STYLE_URL||null,tileUrl:process.env.MAP_TILE_URL||'https://tile.openstreetmap.org/{z}/{x}/{y}.png',attribution:process.env.MAP_ATTRIBUTION||'© <a href="https://www.openstreetmap.org/copyright" target="_blank">OpenStreetMap</a> contributors'});}

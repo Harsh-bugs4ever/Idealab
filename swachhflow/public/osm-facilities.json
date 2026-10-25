@@ -1,0 +1,111 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-10-25T06:26:48Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 12786048115,
+  "lat": 19.2968196,
+  "lon": 72.8638335,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "fee": "no",
+    "female": "yes",
+    "male": "yes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13039699952,
+  "lat": 19.2958581,
+  "lon": 72.8582695,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "fee": "yes",
+    "female": "yes",
+    "level": "0",
+    "male": "yes",
+    "operator": "MBMC",
+    "toilets:disposal": "bucket",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 13167044570,
+  "lat": 19.2997108,
+  "lon": 72.8673124,
+  "tags": {
+    "amenity": "toilets",
+    "female": "yes",
+    "male": "yes",
+    "operator": "MBMC"
+  }
+},
+{
+  "type": "node",
+  "id": 13169406101,
+  "lat": 19.2968337,
+  "lon": 72.8573201,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "fee": "yes",
+    "female": "yes",
+    "male": "yes",
+    "operator": "MBMC",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 13249446985,
+  "lat": 19.2998818,
+  "lon": 72.8611424,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets"
+  }
+},
+{
+  "type": "way",
+  "id": 1443701014,
+  "center": {
+    "lat": 19.3061943,
+    "lon": 72.8672600
+  },
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "building": "toilets",
+    "building:colour": "yellow",
+    "building:levels": "2",
+    "building:use": "service",
+    "level": "0",
+    "operator": "MBMC"
+  }
+},
+{
+  "type": "way",
+  "id": 1485722097,
+  "center": {
+    "lat": 19.2940118,
+    "lon": 72.8424136
+  },
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "building": "yes"
+  }
+}
+
+  ]
+}
